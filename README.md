@@ -7,10 +7,9 @@
 
 
 This project implements **Flower Detection** using deep learning models: **ResNet152**, **VGG16**, **EfficientNet**, and **Xception**.
-
 ---
 
-## 🏗️ Project Overview
+## 🏗️ DL Project Overview
 
 We trained models on a flower dataset consisting of 5 flower classes:
 - 🌼 Daisy
